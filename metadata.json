@@ -1,0 +1,7 @@
+{
+  "name": "Virtuoso Metronome",
+  "description": "A high-precision metronome featuring a circular dial BPM controller, rhythmic pendulum animation, and a sophisticated piano-inspired glassmorphism design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
